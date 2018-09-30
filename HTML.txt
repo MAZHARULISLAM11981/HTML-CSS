@@ -1,0 +1,6 @@
+<div class="custom_file_upload">
+	<input type="text" class="file" name="file_info">
+	<div class="file_upload">
+		<input type="file" id="file_upload" name="file_upload">
+	</div>
+</div>
